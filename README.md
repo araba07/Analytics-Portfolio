@@ -11,6 +11,9 @@ Using SQL, Python, and Power BI to solve complex data problems and identify oper
 ![bash](https://img.shields.io/badge/bash-%23B2D453?style=for-the-badge&logo=gnubash&labelColor=black)
 ![git](https://img.shields.io/badge/git-%23D47553?style=for-the-badge&logo=git&labelColor=black)
 
+# Portfolio Projects
+* **Project 1:** [NHS Waiting Times & Operational Performance Analysis](https://github.com/araba07/NHS-Waiting-Times-Analysis)
+
 
 
 
