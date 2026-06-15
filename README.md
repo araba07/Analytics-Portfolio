@@ -13,6 +13,7 @@ Using SQL, Python, and Power BI to solve complex data problems and identify oper
 
 # Portfolio Projects
 * **Project 1:** [NHS Waiting Times & Operational Performance Analysis](https://github.com/araba07/NHS-Waiting-Times-Analysis)
+* **Project 2:** [Retail Revenue & Customer Insights Dashboard](https://github.com/araba07/retail-sales-customer-insights)
 
 
 
