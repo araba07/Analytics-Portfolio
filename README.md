@@ -1,4 +1,4 @@
-# Analytics-Portfolio
+# Analytics Portfolio
 Using SQL, Python, and Power BI to solve complex data problems and identify operational trends. Featuring a regional trend analysis of NHS datasets to identify operational bottlenecks and post-pandemic recovery patterns.
 # Technologies & skills
 ![SQL](https://img.shields.io/badge/sql-D95B5B?style=for-the-badge&labelColor=black)
