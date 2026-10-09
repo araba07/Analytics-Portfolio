@@ -1,5 +1,5 @@
 # Analytics Portfolio
-End-to-end data analytics portfolio using SQL, Python, and Power BI to clean, model, and visualize data. Features diverse commercial and operational projects, including retail sales performance tracking and public sector trend analysis.
+End-to-end data analytics portfolio using SQL, Python, and Power BI to clean, model, and visualise data. Features diverse commercial and operational projects, including retail sales performance tracking and public sector trend analysis.
 # Technologies & skills
 [![My Skills](https://skillicons.dev/icons?i=python,vscode,mysql,postgres,gitlab&theme=light)](https://skillicons.dev)
 
