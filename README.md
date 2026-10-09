@@ -1,15 +1,7 @@
 # Analytics Portfolio
 End-to-end data analytics portfolio using SQL, Python, and Power BI to clean, model, and visualize data. Features diverse commercial and operational projects, including retail sales performance tracking and public sector trend analysis.
 # Technologies & skills
-![SQL](https://img.shields.io/badge/sql-D95B5B?style=for-the-badge&labelColor=black)
-![Postgresql](https://img.shields.io/badge/postgresql-%23536FD4?style=for-the-badge&logo=postgresql&labelColor=black)
-![pandas](https://img.shields.io/badge/pandas-%2337287B?style=for-the-badge&logo=pandas&labelColor=black)
-![powerbi](https://img.shields.io/badge/powerbi-D4B853?style=for-the-badge&labelColor=black)
-![python](https://img.shields.io/badge/python-579AC9?style=for-the-badge&logo=python&labelColor=black)
-![mysql](https://img.shields.io/badge/mysql-%232A6DA7?style=for-the-badge&logo=mysql&labelColor=black)
-![vscode](https://img.shields.io/badge/visual%20studio%20code-%231B395A?style=for-the-badge&labelColor=black)
-![bash](https://img.shields.io/badge/bash-%23B2D453?style=for-the-badge&logo=gnubash&labelColor=black)
-![git](https://img.shields.io/badge/git-%23D47553?style=for-the-badge&logo=git&labelColor=black)
+[![My Skills](https://skillicons.dev/icons?i=python,vscode,mysql,postgres,gitlab&theme=light)](https://skillicons.dev)
 
 # Portfolio Projects
 * **Project 1:** [NHS Waiting Times & Operational Performance Analysis](https://github.com/araba07/NHS-Waiting-Times-Analysis)
